@@ -32,7 +32,7 @@ export default function Hero() {
           <input type="text" placeholder="Search a destination…" aria-label="Search destinations" />
           <button>Explore →</button>
         </div>
-        <p className={styles.searchNote}>Happy Vacations</p>
+        <p className={styles.searchNote}>Explore more</p>
       </div>
 
       <div className={styles.stats}>
