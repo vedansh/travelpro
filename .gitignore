@@ -12,8 +12,8 @@ dist
 dist-ssr
 *.local
 
-# Claude Code (local skills and settings — do not commit)
-.claude/
+# Claude Code local settings (machine-specific, do not commit)
+.claude/settings.local.json
 
 # Editor directories and files
 .vscode/*
