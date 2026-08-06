@@ -23,7 +23,7 @@ export default function Hero() {
           <span className={styles.line} />
         </div>
         <h1 className={styles.title}>
-          Discover Your<br /><em>Next Adventure</em>
+          Ship faster,<br /><em>together</em>
         </h1>
         <p className={styles.sub}>
           Hand-picked destinations, beautifully planned — from hidden gems to iconic escapes, crafted for every kind of traveler.
